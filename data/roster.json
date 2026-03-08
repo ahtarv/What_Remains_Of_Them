@@ -189,6 +189,101 @@
                 "    ♩|   |♩    ",
                 "    /     \\    "
             ]
+        },
+        {
+            "id": "011",
+            "name": "The Waiting Room",
+            "rarity": "R",
+            "title": "Still Expecting Someone",
+            "description": "Not a person. A place that learned to walk. The scholar notes: 'It follows me now. I try not to sit down near it.'",
+            "ascii_art": [
+                "   _________   ",
+                "  |  _____  |  ",
+                "  | |     | |  ",
+                "  | |     | |  ",
+                "  | |_____| |  ",
+                "  |_________|  ",
+                "  |  | | |  |  ",
+                "  |  | | |  |  ",
+                "  |__|___|__|  ",
+                "               "
+            ]
+        },
+        {
+            "id": "012",
+            "name": "Greymantle",
+            "rarity": "R",
+            "title": "Wore Someone Else's Grief",
+            "description": "It is draped in mourning clothes that do not fit. The scholar could not determine who they were made for. Greymantle does not seem to know either.",
+            "ascii_art": [
+                "    .~~~~~.    ",
+                "   ( . _ . )   ",
+                "    \\     /    ",
+                "   _/~~~~~\\_   ",
+                "  / ~~~~~~~  \\ ",
+                " /  ~~~~~~~   \\",
+                "    ~~~~~~~    ",
+                "    |     |    ",
+                "    |     |    ",
+                "   /       \\   "
+            ]
+        },
+        {
+            "id": "013",
+            "name": "The Mute Herald",
+            "rarity": "R",
+            "title": "Carries News From Nowhere",
+            "description": "It arrives with scrolls it cannot read, to deliver messages it cannot speak, for recipients that no longer exist. The scholar accepted one anyway.",
+            "ascii_art": [
+                "    _______    ",
+                "   | . _ . |   ",
+                "   |  | |  |   ",
+                "   |_______|   ",
+                "   /|  |  |\\   ",
+                "  / | [≡] | \\  ",
+                "    | [≡] |    ",
+                "    | [≡] |    ",
+                "    |     |    ",
+                "   /|     |\\   "
+            ]
+        },
+        {
+            "id": "014",
+            "name": "Thinthread",
+            "rarity": "R",
+            "title": "Holds Things Together Barely",
+            "description": "It is made entirely of knotted string. The scholar is afraid to ask what the string used to be. Some knots look like they were tied in a hurry.",
+            "ascii_art": [
+                "  /\\/\\/\\/\\/\\  ",
+                " /  .     .  \\ ",
+                "|  ( )   ( )  |",
+                " \\    \\_/    / ",
+                "  \\/\\/\\/\\/\\/  ",
+                "   /|~~~~~|\\   ",
+                "  / |~~~~~| \\  ",
+                "    |~~~~~|    ",
+                "    |  |  |    ",
+                "   /|  |  |\\   "
+            ]
+        },
+        {
+            "id": "015",
+            "name": "Last Hymn",
+            "rarity": "R",
+            "title": "The Final Note of a Dead Religion",
+            "description": "The scholar writes: 'I found it in the ruins of a temple whose god I cannot identify. It was the only thing still standing. It hummed when I approached. I hummed back. I am not sure why.'",
+            "ascii_art": [
+                "   ♪  ═══  ♩   ",
+                "  /  ╔═══╗  \\  ",
+                " /   ║ ✦ ║   \\ ",
+                "     ╠═══╣     ",
+                "     ║   ║     ",
+                "     ╠═══╣     ",
+                "    /║   ║\\    ",
+                "   / ║   ║ \\   ",
+                "     ║   ║     ",
+                "   ♩ ╚═══╝ ♪   "
+            ]
         }
     ]
 }
