@@ -1,0 +1,194 @@
+{
+    "roster": [
+        {
+            "id": "001",
+            "name": "The Ashen Widow",
+            "rarity": "SSR",
+            "title": "She Who Buried Three Worlds",
+            "description": "Found at the edge of a collapsed civilization, she neither speaks nor weeps. The scholar's notes read: 'She remembers everything. That is her curse.'",
+            "ascii_art": [
+                "   _ . _ . _   ",
+                "  /  * . *  \\  ",
+                " | .  ___  . | ",
+                " |  _(. .)_  | ",
+                "  \\ / _^_ \\ / ",
+                "   |  |||  |   ",
+                "  /|  |||  |\\  ",
+                " / |  |||  | \\ ",
+                "   |__|_|__|   ",
+                "    |     |    "
+            ]
+        },
+        {
+            "id": "002",
+            "name": "Hollowed Sentinel",
+            "rarity": "SSR",
+            "title": "Last Guard of a Forgotten Gate",
+            "description": "It was still standing at its post when the scholar found it. The gate it guarded no longer exists. Neither does the kingdom that built it. It did not seem to care.",
+            "ascii_art": [
+                "   ╔═══════╗   ",
+                "   ║ ◈   ◈ ║   ",
+                "   ║   ▲   ║   ",
+                "   ╚═══════╝   ",
+                "  /║       ║\\  ",
+                " / ║  ═══  ║ \\ ",
+                "   ║  ═══  ║   ",
+                "  /╚═══════╝\\  ",
+                " /   |   |   \\ ",
+                "     |   |     "
+            ]
+        },
+        {
+            "id": "003",
+            "name": "The Pale Cartographer",
+            "rarity": "SSR",
+            "title": "Mapper of Unmade Places",
+            "description": "His maps show places that do not exist yet. Or perhaps no longer exist. The scholar cannot tell the difference. Neither can he.",
+            "ascii_art": [
+                "    .─────.    ",
+                "   / . ^ . \\   ",
+                "  │  (. .)  │  ",
+                "  │    v    │  ",
+                "   \\  ═══  /   ",
+                "   /│     │\\   ",
+                "  / │ ▓▓▓ │ \\  ",
+                "    │ ▓▓▓ │    ",
+                "    │     │    ",
+                "   /       \\   "
+            ]
+        },
+        {
+            "id": "004",
+            "name": "Ember Wraith",
+            "rarity": "SR",
+            "title": "What the Fire Left Behind",
+            "description": "Not a ghost. Not alive. The scholar writes: 'It is the shape that fire makes when it misses someone.'",
+            "ascii_art": [
+                "   ) . ( . )   ",
+                "  ( . ) ( . )  ",
+                "   ) . ( . )   ",
+                "    .~~~~~.    ",
+                "   ( o   o )   ",
+                "    \\  ^  /    ",
+                "     ~~~~~     ",
+                "    /|   |\\    ",
+                "   / |   | \\   ",
+                "     |   |     "
+            ]
+        },
+        {
+            "id": "005",
+            "name": "The Fractured Judge",
+            "rarity": "SR",
+            "title": "Verdicts Without a Court",
+            "description": "It still passes judgment. On what, exactly, remains unclear. The scholar stopped asking after the third visit.",
+            "ascii_art": [
+                "   _________   ",
+                "  |  _   _  |  ",
+                "  | | | | | |  ",
+                "  |  -   -  |  ",
+                "  |    _    |  ",
+                "  |_________|  ",
+                "   /|     |\\   ",
+                "  / |═════| \\  ",
+                "    |     |    ",
+                "   /|     |\\   "
+            ]
+        },
+        {
+            "id": "006",
+            "name": "Rot Pilgrim",
+            "rarity": "SR",
+            "title": "Eternal Traveller, No Destination",
+            "description": "It has been walking for longer than the scholar's entire bloodline has existed. When asked where it is going, it simply continues walking.",
+            "ascii_art": [
+                "    *   *  *   ",
+                "     .~~~~~.   ",
+                "    ( . _ . )  ",
+                "     \\  ~  /   ",
+                "   ___\\   /    ",
+                "  /    \\ /  \\ ",
+                " /  ~   X   ~\\ ",
+                "    |  / \\  |  ",
+                "    | /   \\ |  ",
+                "   /           \\"
+            ]
+        },
+        {
+            "id": "007",
+            "name": "Fractured Shade",
+            "rarity": "SR",
+            "title": "A Memory With No Owner",
+            "description": "The scholar's notes are unusually short for this entry. Just three words: 'Do not linger.'",
+            "ascii_art": [
+                "   . · . · .   ",
+                "    ·  ___  ·  ",
+                "   · /. . .\\ · ",
+                "    | ·   · |  ",
+                "    |   ~   |  ",
+                "   · \\·····/ · ",
+                "   · /     \\ · ",
+                "  · / · · · \\ ·",
+                "    ·       ·  ",
+                "     · · · ·   "
+            ]
+        },
+        {
+            "id": "008",
+            "name": "Nameless Soldier",
+            "rarity": "R",
+            "title": "Fought For a Flag He Can't Recall",
+            "description": "His armor bears insignia from three different armies. He does not remember serving any of them. The scholar found him still at attention.",
+            "ascii_art": [
+                "    _______    ",
+                "   |  . .  |   ",
+                "   |   _   |   ",
+                "   |_______|   ",
+                "   /|═════|\\   ",
+                "  / |     | \\  ",
+                "    |  ▓  |    ",
+                "    |_____|    ",
+                "    |   |      ",
+                "   /|   |\\     "
+            ]
+        },
+        {
+            "id": "009",
+            "name": "The Ink Penitent",
+            "rarity": "R",
+            "title": "Covered in Words No One Wrote",
+            "description": "Every surface of its body is covered in scripture. The scholar spent a week transcribing it. The text keeps changing.",
+            "ascii_art": [
+                "  ≡ ≡ . ≡ ≡    ",
+                "  ≡ .~~~~~. ≡  ",
+                "  ≡( = · = )≡  ",
+                "  ≡ \\  ~  / ≡  ",
+                "  ≡ /≡≡≡≡≡\\ ≡ ",
+                "  ≡|≡≡≡≡≡≡≡|≡ ",
+                "  ≡|≡≡≡≡≡≡≡|≡ ",
+                "  ≡ \\≡≡≡≡≡/ ≡ ",
+                "  ≡  |≡ ≡|  ≡  ",
+                "  ≡  |≡ ≡|  ≡  "
+            ]
+        },
+        {
+            "id": "010",
+            "name": "Hollow Lullaby",
+            "rarity": "R",
+            "title": "Sings to Children That No Longer Exist",
+            "description": "The scholar notes: 'I hear it before I see it. It is always singing. I have not yet determined if this is comforting or terrible. Perhaps both.'",
+            "ascii_art": [
+                "   ♩  ♪  ♩     ",
+                "    .~~~~~.    ",
+                "   (  o o  )   ",
+                "    \\  ω  /    ",
+                "     ~~~~~     ",
+                "    /|   |\\    ",
+                "   / | ♪ | \\   ",
+                "     |   |     ",
+                "    ♩|   |♩    ",
+                "    /     \\    "
+            ]
+        }
+    ]
+}
